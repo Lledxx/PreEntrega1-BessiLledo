@@ -1,0 +1,19 @@
+.NavBar {
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 100%;
+
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 15px;
+    font-size: 18px;
+}
+
+ul li {
+    list-style: none;
+}

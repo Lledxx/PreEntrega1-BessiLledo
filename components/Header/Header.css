@@ -1,0 +1,16 @@
+.Header {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	background-color: darkcyan;
+	width: 100%;
+	min-height: 30vh;
+	border: 10px solid yellow;
+	box-sizing: border-box;
+}
+
+.Header h1,
+h2 {
+	color: white;
+}
